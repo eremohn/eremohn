@@ -8,10 +8,10 @@
 
 ## 🛠️ Habilidades
 
-Lenguajes de programación: Python
-Bases de datos: MySQL
-Herramientas de visualización: PowerBI
-Sistemas operativos: Ubuntu, Debian
+- Lenguajes de programación: Python
+- Bases de datos: MySQL
+- Herramientas de visualización: PowerBI
+- Sistemas operativos: Ubuntu, Debian
 
 Soy responsable y dedicado, siempre buscando dar lo mejor de mí en cada tarea que emprendo. Me gusta trabajar en equipo y disfruto del proceso colaborativo, aportando mi curiosidad y entrega total para finalizar los proyectos, por difíciles que sean. En mi tiempo libre, me encanta leer sobre ciencia ficción, un género que no solo me entretiene, sino que también inspira mi creatividad y pasión por las tecnologías del futuro.
 
