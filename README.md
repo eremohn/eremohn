@@ -1,12 +1,12 @@
 ¡Hola! Soy Felipe, Data Scientist entusiasta con una fuerte inclinación hacia el análisis de datos y el desarrollo de modelos de aprendizaje automático. Estoy comprometido con el aprendizaje continuo y la aplicación de mis habilidades en cada proyecto que realizo.
 
-🚀 Sobre mí
-🌱 Continuamente estoy aprendiendo y mejorando mis conocimientos y habilidades en distintas tecnologías, lo que me permite seguir creciendo en el mundo del análisis y la ciencia de datos.
-📚 Actualmente estoy cursando la carrera de Ingeniería Aeroespacial en la Universidad Nacional de La Plata.
-🎓 Soy Data Scientist egresado de la academia de Henry.
-⭐ Soy Teaching Assistant para la carrera de Data Analytics de Henry.
+## 🚀 Sobre mí
+- 🌱 Continuamente estoy aprendiendo y mejorando mis conocimientos y habilidades en distintas tecnologías, lo que me permite seguir creciendo en el mundo del análisis y la ciencia de datos.
+- 📚 Actualmente estoy cursando la carrera de Ingeniería Aeroespacial en la Universidad Nacional de La Plata.
+- 🎓 Soy Data Scientist egresado de la academia de Henry.
+- ⭐ Soy Teaching Assistant para la carrera de Data Analytics de Henry.
 
-🛠️ Habilidades
+## 🛠️ Habilidades
 
 Lenguajes de programación: Python
 Bases de datos: MySQL
