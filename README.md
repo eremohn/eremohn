@@ -1,21 +1,12 @@
-¡Hola! Soy Felipe, Data Scientist entusiasta con una fuerte inclinación hacia el análisis de datos y el desarrollo de modelos de aprendizaje automático. Estoy comprometido con el aprendizaje continuo y la aplicación de mis habilidades en cada proyecto que realizo.
+🚀 ¡Hola! Soy Felipe Varela Miranda
+Apasionado por la ciencia de datos y la ingeniería, con un enfoque analítico y estructurado para la resolución de problemas complejos. Actualmente curso la carrera de Ingeniería Aeroespacial en la Universidad Nacional de La Plata, lo que me ha permitido desarrollar habilidades avanzadas en análisis numérico, cálculo estructural y modelado tridimensional.
 
-## 🚀 Sobre mí
-- 🌱 Continuamente estoy aprendiendo y mejorando mis conocimientos y habilidades en distintas tecnologías, lo que me permite seguir creciendo en el mundo del análisis y la ciencia de datos.
-- 📚 Actualmente estoy cursando la carrera de Ingeniería Aeroespacial en la Universidad Nacional de La Plata.
-- 🎓 Soy Data Scientist egresado de la academia de Henry.
-- ⭐ Soy Teaching Assistant para la carrera de Data Analytics de Henry.
+Mi formación me ha llevado a explorar dos mundos complementarios: el análisis de datos y el diseño técnico. Como Científico de Datos, tengo experiencia en procesamiento de datos, modelos predictivos y automatización de procesos mediante Python, SQL y herramientas de BI. Por otro lado, en el área de ingeniería y diseño, domino AutoCAD y Autodesk Inventor para la creación y optimización de modelos mecánicos y estructurales.
 
-## 🛠️ Habilidades
+Me destaco en entornos dinámicos gracias a mi pensamiento crítico, capacidad de diagnóstico y enfoque orientado a la solución de problemas. Disfruto comunicar conceptos técnicos de manera clara y efectiva, ya sea interpretando datos para la toma de decisiones o documentando diseños y simulaciones.
 
-- Lenguajes de programación: Python
-- Bases de datos: MySQL
-- Herramientas de visualización: PowerBI
-- Sistemas operativos: Ubuntu, Debian
+Siempre en búsqueda de nuevos desafíos, combino la creatividad del diseño con la precisión del análisis de datos, permitiéndome aportar valor en múltiples disciplinas. 
 
-Soy responsable y dedicado, siempre buscando dar lo mejor de mí en cada tarea que emprendo. Me gusta trabajar en equipo y disfruto del proceso colaborativo, aportando mi curiosidad y entrega total para finalizar los proyectos, por difíciles que sean. En mi tiempo libre, me encanta leer sobre ciencia ficción, un género que no solo me entretiene, sino que también inspira mi creatividad y pasión por las tecnologías del futuro.
-
-Como miembro de mi comunidad y equipo de trabajo, siempre busco maneras de contribuir positivamente, ya sea participando en proyectos locales o apoyando a mis compañeros. Creo firmemente en la importancia de la integridad y el compromiso, y estos valores guían cada aspecto de mi vida.
 
 ### Puedes contactarme
 ---
